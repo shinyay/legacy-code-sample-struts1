@@ -10,15 +10,16 @@ The demo demonstrates a basic Struts 1 application that displays a "Hello, World
 
 ## Features
 
-- Simple Struts 1 configuration
+- Basic Struts 1.3 implementation
 - Basic Action class to handle requests
 - JSP page to display the message
 
 ## Requirement
 
-- Java 1.5
+- Java 1.5 or later
 - Apache Maven
-- Docker (for running in Dev Containers)
+- (Optional) GitHub Codespaces (for running in Dev Containers)
+- (Optional) Docker (for running in Dev Containers)
 
 ## Usage
 
