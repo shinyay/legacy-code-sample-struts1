@@ -24,8 +24,15 @@ The demo demonstrates a basic Struts 1 application that displays a "Hello, World
 ## Usage
 
 1. Clone the repository
-2. Open the repository in GitHub Codespaces
+   ```bash
+   git clone https://github.com/your-repo/struts1-java15-demo.git
+   cd struts1-java15-demo
+   ```
+2. Open in GitHub Codespaces or set up a local environment.
 3. Run the application using the following Maven command:
    ```bash
    mvn clean install
    mvn tomcat7:run
+   ```
+4. Access the application at `Access the application via http://localhost:8080/your-app-context/`
+   (`http://localhost:8080/struts1-java15-demo/hello.do`)
