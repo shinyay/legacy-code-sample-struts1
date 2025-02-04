@@ -29,12 +29,15 @@ The demo demonstrates a basic Struts 1 application that displays a "Hello, World
    cd struts1-java15-demo
    ```
 2. Open in GitHub Codespaces or set up a local environment.
-3. Run the application using the following Maven command:
+3. Build the project using Maven:
    ```bash
    mvn clean install
+   ```
+4. Run the application using the embedded Tomcat server:
+   ```bash
    mvn tomcat7:run
    ```
-4. Access the application at `Access the application via http://localhost:8080/your-app-context/`
+5. Access the application at `Access the application via http://localhost:8080/your-app-context/`
    (`http://localhost:8080/struts1-java15-demo/hello.do`)
 
 ## Installation
