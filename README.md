@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a sample project demonstrating the usage of Apache Struts 1 framework with Java 1.5. The project includes a simple "Hello, World!" example to get started with Struts 1.
+This is a sample project demonstrating the use of Struts 1 with Java 1.5. The project includes a simple Struts-based web application and a Dev Container configuration for running it on GitHub Codespaces.
 
 ## Demo
 
