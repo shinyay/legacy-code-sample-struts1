@@ -14,5 +14,6 @@
             ]
         }
     },
-    "postCreateCommand": "mvn clean package"
+    "postCreateCommand": "mvn clean package",
+    "remoteUser": "vscode"
 }
