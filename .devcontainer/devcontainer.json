@@ -2,10 +2,8 @@
     "name": "Struts 1 Java 1.5",
     "dockerFile": "Dockerfile",
     "runArgs": [
-        "--init",
-        "--privileged"
+        "--init"
     ],
-    "overrideCommand": false,
     "customizations": {
         "vscode": {
             "settings": {},
