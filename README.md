@@ -4,6 +4,15 @@
 
 This is a sample project demonstrating the use of Struts 1 with Java 1.5. The project includes a simple Struts-based web application and a Dev Container configuration for running it on GitHub Codespaces.
 
+Here's the structure of the project:
+
+- `pom.xml` - Maven configuration file to manage dependencies.
+- `src/main/java` - Directory for Java source files.
+- `src/main/webapp` - Directory for web application files (JSP, WEB-INF, etc.).
+- `src/main/webapp/WEB-INF/struts-config.xml` - Struts configuration file.
+- `.devcontainer/devcontainer.json` - Dev Containers configuration file.
+- `.devcontainer/Dockerfile` - Dockerfile for Dev Containers.
+
 ## Demo
 
 The demo demonstrates a basic Struts 1 application that displays a "Hello, World!" message.
